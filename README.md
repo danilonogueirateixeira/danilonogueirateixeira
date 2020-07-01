@@ -1,6 +1,22 @@
-### Hi there 👋
+# 📱 Mobile Developer 📱
 
-- I’m currently working on Flutter
+###### Formação:
+      📱 - Especialista em Desenvolvimento para Dispositivos Móveis - IESB 
+      💻 - Tecnólogo em Redes de Computadores - IESB
+
+###### Tecnologias:
+      Android: Kotlin e Java
+      iOS: Swift
+      Híbrido: Flutter 
+      
+###### Publicações Android:
+   [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
+###### Publicações iOS:
+   [Glossário CNT](https://apps.apple.com/br/app/gloss%C3%A1rio-cnt-do-transporte/id1496963216)
+
+
+
+
 
 <!--
 **danilonogueirateixeira/danilonogueirateixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
