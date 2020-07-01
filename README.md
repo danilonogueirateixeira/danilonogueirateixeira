@@ -1,8 +1,8 @@
 # 📱 Mobile Developer 📱
 
 ###### Formação:
-      📱 - Especialista em Desenvolvimento para Dispositivos Móveis - IESB 
-      💻 - Tecnólogo em Redes de Computadores - IESB
+     📱 - Especialista em Desenvolvimento para Dispositivos Móveis - IESB 
+    💻 - Tecnólogo em Redes de Computadores - IESB
 
 ###### Tecnologias:
       Android: Kotlin e Java
