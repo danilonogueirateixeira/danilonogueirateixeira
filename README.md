@@ -10,9 +10,11 @@
       Mult: Flutter 
       
 ###### Publicações Android:
-   [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
+   📚 [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
+   
+   💊 [Saúde Sempre](https://play.google.com/store/apps/details?id=com.saude_sempre)
 ###### Publicações iOS:
-   [Glossário CNT](https://apps.apple.com/br/app/gloss%C3%A1rio-cnt-do-transporte/id1496963216)
+   📚 [Glossário CNT](https://apps.apple.com/br/app/gloss%C3%A1rio-cnt-do-transporte/id1496963216)
 
 
 
