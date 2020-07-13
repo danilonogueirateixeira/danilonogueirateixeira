@@ -1,13 +1,13 @@
 # 📱 Mobile Developer 📱
 
 ###### Formação:
-     📱 - Especialista em Desenvolvimento para Dispositivos Móveis - IESB 
-    💻 - Tecnólogo em Redes de Computadores - IESB
+      📱 - Especialista em Desenvolvimento para Dispositivos Móveis - IESB 
+     💻 - Tecnólogo em Redes de Computadores - IESB
 
 ###### Tecnologias:
       Android: Kotlin e Java
       iOS: Swift
-      Mult: Flutter 
+      Mult: Flutter/Dart 
       
 ###### Publicações Android:
    📚 [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
@@ -15,6 +15,10 @@
    💊 [Saúde Sempre](https://play.google.com/store/apps/details?id=com.saude_sempre)
 ###### Publicações iOS:
    📚 [Glossário CNT](https://apps.apple.com/br/app/gloss%C3%A1rio-cnt-do-transporte/id1496963216)
+   
+   
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/danilonogueirateixeira/)](https://www.linkedin.com/in/danilonogueirateixeira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danilonogueirateixeira@gmail.com)](mailto:danilonogueirateixeira@gmail.com)
 
 
 
