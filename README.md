@@ -7,7 +7,7 @@
 ###### Tecnologias:
       Android: Kotlin e Java
       iOS: Swift
-      Mult: Flutter/Dart 
+      Cross: Flutter/Dart 
       
 ###### Publicações Android:
    📚 [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
