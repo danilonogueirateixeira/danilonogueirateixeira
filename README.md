@@ -13,6 +13,8 @@
    📚 [Glossário CNT](https://play.google.com/store/apps/details?id=br.org.cnt.glossario_cnt)
    
    💊 [Saúde Sempre](https://play.google.com/store/apps/details?id=com.saude_sempre)
+   
+   🛒 [Economiza Mais](https://play.google.com/store/apps/details?id=br.com.economizamais_app)
 ###### Publicações iOS:
    📚 [Glossário CNT](https://apps.apple.com/br/app/gloss%C3%A1rio-cnt-do-transporte/id1496963216)
    
